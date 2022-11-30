@@ -13,3 +13,5 @@ Actualmente tambien con problemas de miopia xd
 En camino a seguir una vida mas activa
 
 Hoy estudia para ser desarrollador web
+
+Si aplico el comando checkout desaparece esta linea
