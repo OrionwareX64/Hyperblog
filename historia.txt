@@ -14,6 +14,4 @@ En camino a seguir una vida mas activa
 
 Hoy estudia para ser desarrollador web
 
-Si aplico el comando checkout desaparece esta linea
-
-Ultima linea pal checkout
+Mañana nos enfocaremos en su vida laboral
