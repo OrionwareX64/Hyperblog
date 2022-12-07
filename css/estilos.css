@@ -8,6 +8,13 @@ body {
 
 }
 
+#cabecera {
+    background: #33a;
+    color: white;
+    margin: 0;
+    padding: 0.5em;
+}
+
 #container {
     width: 70%;
     padding: 1em;
